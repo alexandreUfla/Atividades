@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"<Unnamed>","l":"AgenteImobiliario"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"}];updateSearchResults();
